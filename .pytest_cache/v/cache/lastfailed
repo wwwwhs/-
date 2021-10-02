@@ -1,0 +1,12 @@
+{
+  "StagePytest/.pytest_cache/test_pytest004.py::test_sub[tiny]": true,
+  "StagePytest/test_pytest005.py::test_div_002": true,
+  "StagePytest/test_pytest005.py::test_mul_002": true,
+  "StagePytest/test_wework.py::TestCropTag::test_get_crop_tag_list": true,
+  "wework/case/test_corp_tag.py::TestCropTap::test_001": true,
+  "wework/case/test_corp_tag.py::TestCropTap::test_edit_corp_tag[\\u5927\\u5199\\u5b57\\u6bcd]": true,
+  "wework/case/test_corp_tag.py::TestCropTap::test_edit_corp_tag[\\u5b57\\u7b26]": true,
+  "wework/case/test_corp_tag.py::TestCropTap::test_edit_corp_tag[\\u6570\\u5b57]": true,
+  "wework/case/test_corp_tag.py::TestCropTap::test_edit_corp_tag[\\u6c49\\u5b57]": true,
+  "wework/case/test_corp_tag.py::TestCropTap::test_edit_corp_tag[\\u82f1\\u6587]": true
+}

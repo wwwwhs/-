@@ -1,0 +1,6 @@
+[
+  "pytest001.py::TestCal::test_001",
+  "test_pytest.py::test_add_001",
+  "test_pytest.py::test_add_002",
+  "test_pytest.py::test_add_003"
+]
